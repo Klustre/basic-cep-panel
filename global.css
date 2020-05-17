@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+html,
+body {
+    background: #272727;
+    color: #9c9c9c;
+    user-select: none;
+    cursor: default;
+    width: 100vw;
+    height: 100vh;
+}
